@@ -11,7 +11,7 @@
 - https://mapserver.org/input/vector/VirtualSpatialData.html
 - https://github.com/SpatialBuzz/odbc-installer -> para relembrar alguns detalhes
 - https://docs.geoserver.org/2.19.x/en/user/data/database/teradata.html
-- #TDGeoImportExport
+- # TDGeoImportExport
   - https://support.teradata.com/community?id=community_question&sys_id=b8ea03af1b97fb00682ca8233a4bcb52
   - https://downloads.teradata.com/download/database/td-geo-importexport-tool-32-bit
   - https://support.teradata.com/community?id=community_question&sys_id=b8ea03af1b97fb00682ca8233a4bcb52
