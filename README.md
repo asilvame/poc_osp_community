@@ -8,6 +8,11 @@
 - Dados Aberto CNJP da Receita: https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj 
 - Dados Aberto Geo do IBGE    : https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html
 
+## Referencia para build CI/CD
+- Postgresql/postgis: https://github.com/kartoza/docker-postgis
+- Geoserver         : https://docs.geoserver.org/main/en/user/installation/docker.html
+- Geoserver + GSR   : https://docs.geoserver.geo-solutions.it/draft/edu/en/esri/esri_rest.html
+
 ## Recursos utilizados e outras referências 
 - https://forest-gis.com/2021/01/como-baixar-shapefiles-e-dados-do-car.html/
 - https://docplayer.net/86852495-Teradata-database-geospatial-data-types.html
