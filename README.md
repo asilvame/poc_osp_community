@@ -11,6 +11,7 @@
 ## Recursos utilizados e outras referências 
 - https://forest-gis.com/2021/01/como-baixar-shapefiles-e-dados-do-car.html/
 - https://docplayer.net/86852495-Teradata-database-geospatial-data-types.html
+- https://docs.teradata.com/r/Enterprise_IntelliFlex_Lake_VMware/Teradata-Geospatial-Utilities-User-Guide-20.00/Teradata-GeoImport-Utility/TDGeoImport-Command
 - https://gdal.org/drivers/vector/vrt.html
 - https://mapserver.org/input/vector/VirtualSpatialData.html
 - https://github.com/SpatialBuzz/odbc-installer -> para relembrar alguns detalhes
