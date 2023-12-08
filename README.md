@@ -4,10 +4,12 @@
 - CEPs e Endereços            : https://www.cepaberto.com/
 - CEPs Geolocalizados         : https://www.kaggle.com/datasets/silveiragustavo/ibge-censo-cep-coordenadas-renda-per-capita/data
 - Dados Geografico RAs DF     : https://sisdia.df.gov.br/home/repositorio-de-dados/
+- Dados Abertos CAR Brasil    : https://www.car.gov.br/publico/imoveis/index
 - Dados Aberto CNJP da Receita: https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj 
-- Dados Aberto Geo do IBGE    : https://www.kaggle.com/datasets/silveiragustavo/ibge-censo-cep-coordenadas-renda-per-capita/data
+- Dados Aberto Geo do IBGE    : https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html
 
 ## Recursos utilizados e outras referências 
+- https://forest-gis.com/2021/01/como-baixar-shapefiles-e-dados-do-car.html/
 - https://gdal.org/drivers/vector/vrt.html
 - https://mapserver.org/input/vector/VirtualSpatialData.html
 - https://github.com/SpatialBuzz/odbc-installer -> para relembrar alguns detalhes
