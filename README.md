@@ -9,9 +9,10 @@
 - Dados Aberto Geo do IBGE    : https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html
 
 ## Referencia para build CI/CD
-- Postgresql/postgis: https://github.com/kartoza/docker-postgis
-- Geoserver         : https://docs.geoserver.org/main/en/user/installation/docker.html
-- Geoserver + GSR   : https://docs.geoserver.geo-solutions.it/draft/edu/en/esri/esri_rest.html
+- Postgresql/postgis     : https://github.com/kartoza/docker-postgis
+- Geoserver              : https://docs.geoserver.org/main/en/user/installation/docker.html
+- Geoserver + GSR        : https://docs.geoserver.geo-solutions.it/draft/edu/en/esri/esri_rest.html
+- Banco de dados Teradata: https://downloads.teradata.com/download/database/teradata-express/vmware
 
 ## Recursos utilizados e outras referências 
 - https://forest-gis.com/2021/01/como-baixar-shapefiles-e-dados-do-car.html/
