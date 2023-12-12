@@ -12,6 +12,7 @@
 - Postgresql/postgis     : https://github.com/kartoza/docker-postgis
 - Geoserver              : https://docs.geoserver.org/main/en/user/installation/docker.html
 - Geoserver + GSR        : https://docs.geoserver.geo-solutions.it/draft/edu/en/esri/esri_rest.html
+- Geoserver + Teradata   : https://docs.geoserver.org/2.19.x/en/user/data/database/teradata.html
 - Banco de dados Teradata: https://downloads.teradata.com/download/database/teradata-express/vmware
 
 ## Recursos utilizados e outras referências 
