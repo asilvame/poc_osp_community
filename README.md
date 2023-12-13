@@ -16,6 +16,7 @@
 - Banco de dados Teradata: https://downloads.teradata.com/download/database/teradata-express/vmware
 
 ## Recursos utilizados e outras referências 
+- Variaveis de Ambiente https://github.com/geoserver/docker/blob/master/README.md
 - https://forest-gis.com/2021/01/como-baixar-shapefiles-e-dados-do-car.html/
 - https://docplayer.net/86852495-Teradata-database-geospatial-data-types.html
 - https://docs.teradata.com/r/Enterprise_IntelliFlex_Lake_VMware/Teradata-Geospatial-Utilities-User-Guide-20.00/Teradata-GeoImport-Utility/TDGeoImport-Command
